@@ -11,3 +11,4 @@ Gang of four - Widely used design pattern
 * [DESIGN A PARKING LOT](https://www.youtube.com/watch?v=DSGsa0pu8-k)
 * [Observer Design Pattern](https://www.youtube.com/watch?v=wiQdrH2YpT4)
 * [Decorator Design Pattern](https://www.youtube.com/watch?v=j40kRwSm4VE)
+* [State Design Pattern](https://www.youtube.com/watch?v=MGEx35FjBuo)
